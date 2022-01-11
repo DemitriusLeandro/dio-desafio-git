@@ -1,0 +1,1 @@
+Passar parametros para outro componente: https://imasters.com.br/front-end/passando-objetos-na-navegacao-com-angular
